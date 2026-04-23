@@ -10,10 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Sheersh Sharma </span>
             from <span className="purple"> UttarPradesh, India.</span>
-            <br /> I am a third year student pursuing BTech
-            from Pranveer Singh Institue Of Technology
+            <br /> I am a Full Stack Developer with a passion for learning and creating. I have experience in building web applications using technologies like React, Node.js, and MongoDB.
             <br />
-            I am currently seeking for a good Internship 
+            I am currently seeking for a good opportunity to work with a team of talented developers where I can contribute my skills and grow as a developer.
             
             <br />
             <br />
